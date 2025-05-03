@@ -119,7 +119,7 @@ function TodoForm({ onAddTodo }) {
               order: { xs: 1, sm: 2 },
             }}
           >
-            Add Task
+            Add
           </Button>
         </Box>
       </Paper>
